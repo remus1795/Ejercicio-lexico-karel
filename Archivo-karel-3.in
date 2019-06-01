@@ -1,0 +1,1 @@
+iniciar-programa inicia-ejecucion  si junto-a-zumbador entonces inicio coge-zumbador; fin sino inicio deja-zumbador; fin; avanza; apagate; termina-ejecucion  finalizar-programa
